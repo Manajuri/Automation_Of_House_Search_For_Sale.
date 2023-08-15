@@ -1,0 +1,31 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtm_DosyaTarihi&Sequence_1",
+        "str_AramaExceli_Path&Sequence_1",
+        "dt_AramaBilgileri&Sequence_1",
+        "str_SehirBilgisi&Sequence_1",
+        "str_IlceBilgisi&Sequence_1",
+        "str_MinimumFiyat&Sequence_1",
+        "str_MaksimumFiyat&Sequence_1",
+        "ExtractDataTable&Sequence_1",
+        "sheet&Sequence_24",
+        "sheet&Sequence_25"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
